@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently learning **App Development & AI**
+- 🌱 I’m currently learning **App and Web Development & AI**
 - 💡 I love turning ideas into functional, user-friendly software
 - 💬 Ask me about **Java, Python, React, and Java script**
 - 🤝 Open to collaborations on exciting projects
@@ -40,12 +40,10 @@
 
 <p align="center">
   <!-- 💻 Development Skills -->
-  <img src="https://skillicons.dev/icons?i=java,python,react,flutter,html,css,js,mysql,git,github,vscode,eclipse"/>
+  <img src="https://skillicons.dev/icons?i=java,python,react,html,css,js,mysql,git,github,vscode,eclipse"/>
   <br><br>
   <!-- 🎬 Editing & Creative Skills -->
   <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,premierepro"/>
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
 </p>
 
 ---
@@ -70,14 +68,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkidev21&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkidev21&theme=darkhub&margin-w=10&no-frame=true&column=6"/>
 </p>
 
 ---
