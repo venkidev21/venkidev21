@@ -11,7 +11,7 @@ Software Developer | Java • Spring Boot • React • Python • DSA
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Venkatesan.E/">
+  <a href="www.linkedin.com/in/venkatesaneswaran/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:venkatesaneswaran2006@gmail.com">
@@ -174,7 +174,7 @@ My goal is to build production-oriented applications with:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Venkatesan.E/">
+  <a href="www.linkedin.com/in/venkatesaneswaran/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:venkatesaneswaran2006@gmail.com">
